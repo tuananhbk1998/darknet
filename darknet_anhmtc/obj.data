@@ -1,0 +1,5 @@
+classes= 1
+train  = /root/test/darknet_tund/train.txt
+valid  = /root/test/darknet_tund/test.txt
+names  = /root/test/darknet_tund/obj.names
+backup = backup/
